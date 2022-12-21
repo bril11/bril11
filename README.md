@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rezzqg
+- 👋 Hi, I’m @brill20
 - 👀 I’m interested in front-end web development
 - 🌱 I’m currently learning html/css/javascript
 - 💞️ I’m looking to collaborate on ...
