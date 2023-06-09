@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bril11
+- 👋 Hi, I’m @brilio20
 - 👀 I’m interested in front-end web development
 - 🌱 I’m currently learning html/css/javascript
 - 💞️ I’m looking to collaborate on ...
